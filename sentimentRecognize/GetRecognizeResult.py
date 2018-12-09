@@ -21,9 +21,9 @@ for parent in parents:
     childLabeledFilePath.append(labeledChild)
 
 # 远程调用参数
-APP_ID = '10909192'
-API_KEY = 'j3A4pypCDzWkcUexTESmB5zm'
-SECRET_KEY = 'UouaOSXsare7m392YVQodt2wprELH0Ai '
+APP_ID = 'XXXXXX'
+API_KEY = 'XXXXXXXXXXXXX'
+SECRET_KEY = 'XXXXXXXXXXXXXXXXXXXXXX'
 
 client = AipNlp(APP_ID, API_KEY, SECRET_KEY)
 
